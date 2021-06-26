@@ -40,10 +40,21 @@ Lecture 06: Application of Math functions, list, set and dictionary
 - Math functions
 - Application of list, set, and dictionary
 - Solving same problem in multiple ways
+- https://leetcode.com/problems/power-of-two/
+- https://leetcode.com/problems/contains-duplicate/
+- https://leetcode.com/problems/two-sum/submissions/
+- https://leetcode.com/problems/roman-to-integer/
+- https://leetcode.com/problems/unique-morse-code-words/
 
-Lecture 07: Mathematical operations in Python: NumPy¶
+Lecture 07: Mathematical operations in Python: NumPy
 
 - Comparison between List and NumPy array
 - 1D and 2D NumPy array
 - Mathematical and Matrix operation in NumPy array
 - NumPy array slicing and filtering
+
+Lecture 08: Data Analysis in Python: Pandas
+
+- How to look at the data?
+- Good data or bad data?
+- Data Statistics
