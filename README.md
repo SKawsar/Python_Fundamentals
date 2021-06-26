@@ -13,3 +13,25 @@ Lecture 02: String Manipulation and Python Lists
 - Learn if-elseif-else condition by playing the Blockly games: Bird
 - Learn strig manipulation
 - Python List, slicing, changing, adding and removing list elements
+
+Lecture 03: Python data structure
+
+- Solution discussion of HW1: blockly games Maze and HW2 blockly games Bird and Turtle
+- Python Data Structure: List, tuple, dictionary, set
+
+Lecture 04: Conditional logic, loop and writing functions in Python
+
+- How to write if-else, while and for loop in Python
+- Writing functions in Python
+- LeetCode problems
+- https://leetcode.com/problems/defanging-an-ip-address/
+- https://leetcode.com/problems/goal-parser-interpretation/
+- https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+Lecture 5: LeetCode problems
+
+- https://leetcode.com/problems/maximum-product-of-three-numbers/
+- https://leetcode.com/problems/richest-customer-wealth/
+- https://leetcode.com/problems/shuffle-the-array/
+- https://leetcode.com/problems/valid-perfect-square/
+
