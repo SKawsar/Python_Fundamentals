@@ -35,3 +35,15 @@ Lecture 5: LeetCode problems
 - https://leetcode.com/problems/shuffle-the-array/
 - https://leetcode.com/problems/valid-perfect-square/
 
+Lecture 06: Application of Math functions, list, set and dictionary
+
+- Math functions
+- Application of list, set, and dictionary
+- Solving same problem in multiple ways
+
+Lecture 07: Mathematical operations in Python: NumPy¶
+
+- Comparison between List and NumPy array
+- 1D and 2D NumPy array
+- Mathematical and Matrix operation in NumPy array
+- NumPy array slicing and filtering
